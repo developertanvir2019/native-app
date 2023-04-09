@@ -10,6 +10,7 @@ import { Icon } from 'react-native-elements'
 const Tab = createBottomTabNavigator();
 
 export default function App() {
+  // main part
   return (
     <NavigationContainer>
       <Tab.Navigator>
